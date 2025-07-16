@@ -1,0 +1,5 @@
+CHOPYKEUN - Created by Nova
+Copyright (c) 2025 Nova
+
+This software is provided "as-is" without any warranty.
+You may use, modify, and distribute it freely.
